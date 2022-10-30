@@ -1,0 +1,192 @@
+
+	body{
+		background-color: whitesmoke;}	
+
+	*{font-family: Comic sans MS;}
+	*{top: 210px;}
+
+	
+	#Titre{
+		width:19%;
+		height: 50px;
+		border:3px solid #8c8c8c;
+		background-color: white;
+		position: absolute;
+		top: 210px;
+		right: 79%;	
+		text-align: center;
+		padding-bottom: 40px;
+		}
+
+
+	#droite{
+		float:right;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		width:72%;
+		background-color:#FA5858;
+		border:3px solid #8c8c8c;
+		position: absolute;
+		top: 210px;
+		left: 22%;
+		color: #00004d;
+		padding: 2%;
+		padding-top: 2%;
+		}
+
+
+
+	.Article1{
+		background-color: #D8D8D8;
+		text-align: left;
+		border: 3px solid #8c8c8c;
+		padding: 2%;
+		padding-top: 3%;
+		padding-bottom: 3%;
+		text-decoration:none;
+	}
+
+	.Article1 a{
+		text-decoration: none;
+		Color: red;
+	}
+
+
+
+	.Article2{
+		background-color: #D8D8D8;
+		text-align: left;
+		border: 3px solid #8c8c8c;
+		padding: 2%;
+		padding-top: 3%;
+		padding-bottom: 3%;
+		text-decoration:none;
+	}
+
+	.Article2 a{
+		text-decoration: none;
+		Color: blue;
+	}
+
+
+
+	.Article3{
+		background-color: #D8D8D8;
+		text-align: left;
+		border: 3px solid #8c8c8c;
+		padding: 2%;
+		padding-top: 3%;
+		padding-bottom: 3%;
+		text-decoration:none;
+	}
+
+	.Article3 a{
+		text-decoration: none;
+		Color: red;
+	}
+
+
+
+
+
+
+
+	
+	#banner {
+ 		position: absolute;
+  		top: 0px;
+ 		left: 50%;
+	  	right: 0px;
+	  	width: 50%;
+  		height: 200px;
+  		z-index: -1;
+	}
+
+	#banner2 {
+ 		position: absolute;
+  		top: 0px;
+ 		left: 0px;
+	  	right: 50%;
+	  	width: 50%;
+  		height: 200px;
+  		z-index: -1;
+	}
+
+
+
+
+
+
+
+
+
+	#gauche{
+		width:19%;
+		height: 7.075*4%;
+		border:3px solid #8c8c8c;
+		background-color: white;
+		position: absolute;
+		top: 420px;
+		right: 79%;	
+		}
+
+	.Acceuil {
+		background-color: orange;
+		text-align: center;
+		padding: 2%;
+		padding-top: 5%;
+		padding-bottom: 5%;
+	}
+
+	.Acceuil a{
+		text-decoration:none;
+		color: white;
+	}
+
+	.Résultats{
+		background-color: blue;
+		text-align: center;
+		padding: 2%;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		text-decoration:none;
+	}
+
+	.Résultats a{
+		text-decoration:none;
+		color: white;
+	}
+
+	.Stratégies{
+		background-color: red;
+		text-align: center;
+		padding: 2%;
+		padding-top: 5%;
+		padding-bottom: 5%;
+	}
+
+	.Stratégies a{
+		text-decoration:none;
+		color: white;
+	}
+
+	.Indicateurs{
+		background-color: green;
+		text-align: center;
+		padding: 2%;
+		padding-top: 5%;
+		padding-bottom: 5%;
+	}
+
+	.Indicateurs a{
+		text-decoration:none;
+		color: white;
+	}
+
+
+
+
+
+
+
+
